@@ -13,4 +13,9 @@ public class A {
 	public void y() {
 		System.out.println("hi y");
 	}
+	@Test()
+	public void z() {
+		System.out.println("hi z");
+	}
 }
+
