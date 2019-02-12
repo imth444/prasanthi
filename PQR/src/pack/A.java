@@ -27,7 +27,7 @@ public class A {
 			}
 			@Test()
 			public void c() {
-				System.out.println("hi z");
+				System.out.println("hi gfgz");
 			}
 		
 	}
