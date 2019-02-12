@@ -20,7 +20,12 @@ public class A {
 		@Test()
 	public void f() {
 			System.out.println("hi f");
+		}
+			@Test()
+			public void g() {
+				System.out.println("hi g");
+			}
 		
 	}
-}
+
 
