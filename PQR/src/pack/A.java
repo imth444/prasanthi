@@ -35,6 +35,11 @@ public class A {
 				
 				public void Launch() {
 					System.out.println("hi idxhj");
+				}
+					public void LaunchUrl()
+					{
+						System.out.println("The url is");
+					}
 			}
 	}
 
