@@ -28,6 +28,8 @@ public class A {
 			@Test()
 			public void c() {
 				System.out.println("hi gfgz");
+				public void gh() {
+					System.out.println("hi idxhj");
 			}
 		
 	}
