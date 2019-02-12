@@ -17,5 +17,10 @@ public class A {
 	public void z() {
 		System.out.println("hi z");
 	}
+		@Test()
+	public void f() {
+			System.out.println("hi f");
+		
+	}
 }
 
