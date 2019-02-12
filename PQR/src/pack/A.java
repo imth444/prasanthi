@@ -25,6 +25,10 @@ public class A {
 			public void g() {
 				System.out.println("hi g");
 			}
+			@Test()
+			public void c() {
+				System.out.println("hi z");
+			}
 		
 	}
 
